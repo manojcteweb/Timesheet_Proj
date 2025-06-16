@@ -1,4 +1,6 @@
 fastapi
-pymongo
-pydantic
 uvicorn
+requests
+pymongo
+pytest
+nmap
